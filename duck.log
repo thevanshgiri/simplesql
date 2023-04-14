@@ -1,0 +1,15 @@
+Ping: 14-4-2023 18:18:2
+Hello uv me back.
+Yea i gave boards exams awaiting its result, gave both jee main attempts awaiting their results, going to give Jee adv on 4th june but quite literally have no idea what i am even going to write.
+So yea lets forget that and come back to where we were.
+
+I just finished making this "duck" file. Oh many once i just made a very fucking professional like using #define and #ifdef for windows version of duck like it was a different pro level program, i think i did publish it well and tidely on that imv-in github, ohh damn have i done a lot of things.
+
+here is something i wrote while making this duck might be of some use idk just store it,
+	1. Better use %s to print out strings in c rather than just printf(variable)
+	2. itoa : integer se null terminated string pe convert but non standard hai aur bhot issues hai so leave it
+	3. use sprintf u are a pro now
+so that is there now just save it rn and go to sleep.
+
+Ping: 14-4-2023 18:30:47
+perfect now its fixed ok now serisly gn
